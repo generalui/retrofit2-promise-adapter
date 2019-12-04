@@ -1,0 +1,2 @@
+include ':app', ':retrofit2_promise_adapter'
+rootProject.name='retrofit2_promise'
